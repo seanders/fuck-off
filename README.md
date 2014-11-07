@@ -1,4 +1,4 @@
-Fuck it JS  
+FuckIt.JS  
 ====
 
 The one and only **FULLY CUSTOMIZABLE** JavaScript framework.
